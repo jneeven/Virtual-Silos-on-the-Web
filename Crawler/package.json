@@ -1,0 +1,20 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.26",
+    "parse-domain": "^1.1.0",
+    "phantomjs-pool": "^0.3.1",
+    "phantomjs2": "^2.2.0",
+    "robots-txt-parser": "^1.0.1",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.24"
+  }
+}

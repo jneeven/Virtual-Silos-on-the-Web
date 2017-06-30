@@ -1,0 +1,14 @@
+/r/funny i
+/r/science i
+/r/interestingasfuck i
+/r/space i
+/r/space i
+/r/conspiracy i
+/r/askscience i
+/r/programming i
+/r/changemyview i
+/r/scifi i
+/r/spacex i
+/r/SkyPorn i
+/r/todayilearned i
+/r/videos i
